@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+out.geojson
+parcels.mbtiles
+parcels.sqlite
+.env
+/BRIEF-FOR-REPLIT-2026-11-21.md
